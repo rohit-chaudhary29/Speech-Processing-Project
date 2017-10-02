@@ -1,0 +1,809 @@
+
+
+Codebook OF SIZE 1:Avg distortion is 182.8225917887290300
+
+Codebook Size=2
+
+-------------------------
+Kmean Iteration No==1
+
+count[0]=9875
+count[1]=14107
+
+Average Distortion=15.0234710040517800
+
+-------------------------
+Kmean Iteration No==2
+
+count[0]=9153
+count[1]=14829
+
+Average Distortion=11.5589743684929440
+
+-------------------------
+Kmean Iteration No==3
+
+count[0]=9685
+count[1]=14297
+
+Average Distortion=11.1593023133640510
+
+-------------------------
+Kmean Iteration No==4
+
+count[0]=10311
+count[1]=13671
+
+Average Distortion=11.1947493894780910
+
+-------------------------
+Kmean Iteration No==5
+
+count[0]=10891
+count[1]=13091
+
+Average Distortion=11.2207956676418700
+
+-------------------------
+Kmean Iteration No==6
+
+count[0]=11430
+count[1]=12552
+
+Average Distortion=11.2383671166951550
+
+-------------------------
+Kmean Iteration No==7
+
+count[0]=11918
+count[1]=12064
+
+Average Distortion=11.2479339242779910
+
+-------------------------
+Kmean Iteration No==8
+
+count[0]=12331
+count[1]=11651
+
+Average Distortion=11.2527048080760380
+
+-------------------------
+Kmean Iteration No==9
+
+count[0]=12666
+count[1]=11316
+
+Average Distortion=11.2555879682583640
+
+-------------------------
+Kmean Iteration No==10
+
+count[0]=12967
+count[1]=11015
+
+Average Distortion=11.2588802357371270
+
+-------------------------
+Kmean Iteration No==11
+
+count[0]=13193
+count[1]=10789
+
+Average Distortion=11.2595060412248640
+
+Codebook Size=4
+
+-------------------------
+Kmean Iteration No==1
+
+count[0]=6146
+count[1]=4941
+count[2]=7313
+count[3]=5582
+
+Average Distortion=11.0303534108927330
+
+-------------------------
+Kmean Iteration No==2
+
+count[0]=5510
+count[1]=4756
+count[2]=8747
+count[3]=4969
+
+Average Distortion=8.9008969132276583
+
+-------------------------
+Kmean Iteration No==3
+
+count[0]=5231
+count[1]=4427
+count[2]=9576
+count[3]=4748
+
+Average Distortion=8.7415948361103908
+
+-------------------------
+Kmean Iteration No==4
+
+count[0]=5075
+count[1]=4161
+count[2]=10104
+count[3]=4642
+
+Average Distortion=8.7334214044155978
+
+-------------------------
+Kmean Iteration No==5
+
+count[0]=4989
+count[1]=3975
+count[2]=10417
+count[3]=4601
+
+Average Distortion=8.7317121410225642
+
+-------------------------
+Kmean Iteration No==6
+
+count[0]=4941
+count[1]=3799
+count[2]=10612
+count[3]=4630
+
+Average Distortion=8.7295749199778676
+
+-------------------------
+Kmean Iteration No==7
+
+count[0]=4920
+count[1]=3634
+count[2]=10720
+count[3]=4708
+
+Average Distortion=8.7291873955989843
+
+Codebook Size=8
+
+-------------------------
+Kmean Iteration No==1
+
+count[0]=1876
+count[1]=1458
+count[2]=5215
+count[3]=2360
+count[4]=2872
+count[5]=2015
+count[6]=5732
+count[7]=2454
+
+Average Distortion=8.5896904697402121
+
+-------------------------
+Kmean Iteration No==2
+
+count[0]=1359
+count[1]=1795
+count[2]=5775
+count[3]=2595
+count[4]=2673
+count[5]=1795
+count[6]=5621
+count[7]=2369
+
+Average Distortion=7.5433357276166078
+
+-------------------------
+Kmean Iteration No==3
+
+count[0]=1081
+count[1]=2224
+count[2]=5891
+count[3]=2730
+count[4]=2674
+count[5]=1605
+count[6]=5293
+count[7]=2484
+
+Average Distortion=6.9288742269132468
+
+-------------------------
+Kmean Iteration No==4
+
+count[0]=949
+count[1]=2412
+count[2]=5949
+count[3]=2797
+count[4]=2700
+count[5]=1535
+count[6]=5023
+count[7]=2617
+
+Average Distortion=6.6786188377397222
+
+-------------------------
+Kmean Iteration No==5
+
+count[0]=883
+count[1]=2570
+count[2]=6003
+count[3]=2856
+count[4]=2722
+count[5]=1535
+count[6]=4728
+count[7]=2685
+
+Average Distortion=6.5569215901020605
+
+-------------------------
+Kmean Iteration No==6
+
+count[0]=850
+count[1]=2674
+count[2]=6007
+count[3]=3007
+count[4]=2748
+count[5]=1617
+count[6]=4478
+count[7]=2601
+
+Average Distortion=6.4793379942651050
+
+-------------------------
+Kmean Iteration No==7
+
+count[0]=839
+count[1]=2786
+count[2]=6005
+count[3]=3137
+count[4]=2764
+count[5]=1701
+count[6]=4279
+count[7]=2471
+
+Average Distortion=6.4045563132248216
+
+-------------------------
+Kmean Iteration No==8
+
+count[0]=833
+count[1]=2953
+count[2]=5975
+count[3]=3222
+count[4]=2779
+count[5]=1715
+count[6]=4143
+count[7]=2362
+
+Average Distortion=6.3599925675568318
+
+-------------------------
+Kmean Iteration No==9
+
+count[0]=829
+count[1]=3159
+count[2]=5924
+count[3]=3168
+count[4]=2793
+count[5]=1670
+count[6]=4081
+count[7]=2358
+
+Average Distortion=6.3410117007341880
+
+-------------------------
+Kmean Iteration No==10
+
+count[0]=829
+count[1]=3344
+count[2]=5877
+count[3]=3040
+count[4]=2792
+count[5]=1591
+count[6]=4094
+count[7]=2415
+
+Average Distortion=6.3242720028525268
+
+-------------------------
+Kmean Iteration No==11
+
+count[0]=829
+count[1]=3527
+count[2]=5853
+count[3]=2905
+count[4]=2780
+count[5]=1497
+count[6]=4086
+count[7]=2505
+
+Average Distortion=6.3071706552085116
+
+-------------------------
+Kmean Iteration No==12
+
+count[0]=829
+count[1]=3681
+count[2]=5827
+count[3]=2789
+count[4]=2748
+count[5]=1421
+count[6]=4103
+count[7]=2584
+
+Average Distortion=6.2850343351133420
+
+-------------------------
+Kmean Iteration No==13
+
+count[0]=827
+count[1]=3791
+count[2]=5790
+count[3]=2743
+count[4]=2722
+count[5]=1365
+count[6]=4114
+count[7]=2630
+
+Average Distortion=6.2646685770772192
+
+-------------------------
+Kmean Iteration No==14
+
+count[0]=827
+count[1]=3870
+count[2]=5744
+count[3]=2707
+count[4]=2690
+count[5]=1328
+count[6]=4144
+count[7]=2672
+
+Average Distortion=6.2567631271356978
+
+-------------------------
+Kmean Iteration No==15
+
+count[0]=825
+count[1]=3897
+count[2]=5713
+count[3]=2734
+count[4]=2658
+count[5]=1302
+count[6]=4155
+count[7]=2698
+
+Average Distortion=6.2483709768655578
+
+-------------------------
+Kmean Iteration No==16
+
+count[0]=821
+count[1]=3927
+count[2]=5707
+count[3]=2747
+count[4]=2623
+count[5]=1280
+count[6]=4153
+count[7]=2724
+
+Average Distortion=6.2391034966850567
+
+-------------------------
+Kmean Iteration No==17
+
+count[0]=819
+count[1]=3941
+count[2]=5691
+count[3]=2757
+count[4]=2592
+count[5]=1266
+count[6]=4162
+count[7]=2754
+
+Average Distortion=6.2376895547227704
+
+-------------------------
+Kmean Iteration No==18
+
+count[0]=817
+count[1]=3951
+count[2]=5689
+count[3]=2773
+count[4]=2557
+count[5]=1253
+count[6]=4159
+count[7]=2783
+
+Average Distortion=6.2364626299816539
+
+-------------------------
+Kmean Iteration No==19
+
+count[0]=816
+count[1]=3954
+count[2]=5669
+count[3]=2776
+count[4]=2524
+count[5]=1249
+count[6]=4181
+count[7]=2813
+
+Average Distortion=6.2357428698043309
+
+Codebook Size=16
+
+-------------------------
+Kmean Iteration No==1
+
+count[0]=337
+count[1]=1685
+count[2]=2769
+count[3]=1274
+count[4]=1153
+count[5]=543
+count[6]=2053
+count[7]=1401
+count[8]=464
+count[9]=2238
+count[10]=2920
+count[11]=1531
+count[12]=1294
+count[13]=712
+count[14]=2157
+count[15]=1451
+
+Average Distortion=6.0780697301458408
+
+-------------------------
+Kmean Iteration No==2
+
+count[0]=338
+count[1]=1471
+count[2]=2781
+count[3]=1562
+count[4]=1158
+count[5]=586
+count[6]=1970
+count[7]=1603
+count[8]=488
+count[9]=2012
+count[10]=3246
+count[11]=1460
+count[12]=1138
+count[13]=763
+count[14]=2042
+count[15]=1364
+
+Average Distortion=5.5167949857946539
+
+-------------------------
+Kmean Iteration No==3
+
+count[0]=372
+count[1]=1301
+count[2]=2865
+count[3]=1735
+count[4]=1268
+count[5]=698
+count[6]=1942
+count[7]=1703
+count[8]=497
+count[9]=1908
+count[10]=3205
+count[11]=1364
+count[12]=1042
+count[13]=751
+count[14]=2006
+count[15]=1325
+
+Average Distortion=5.3121307650486571
+
+-------------------------
+Kmean Iteration No==4
+
+count[0]=415
+count[1]=1276
+count[2]=2932
+count[3]=1750
+count[4]=1319
+count[5]=709
+count[6]=1957
+count[7]=1748
+count[8]=513
+count[9]=1908
+count[10]=3094
+count[11]=1338
+count[12]=1035
+count[13]=738
+count[14]=1941
+count[15]=1309
+
+Average Distortion=5.1967602945921376
+
+-------------------------
+Kmean Iteration No==5
+
+count[0]=446
+count[1]=1288
+count[2]=2969
+count[3]=1740
+count[4]=1327
+count[5]=699
+count[6]=2029
+count[7]=1721
+count[8]=535
+count[9]=1960
+count[10]=2981
+count[11]=1372
+count[12]=1072
+count[13]=721
+count[14]=1795
+count[15]=1327
+
+Average Distortion=5.1296787752007065
+
+-------------------------
+Kmean Iteration No==6
+
+count[0]=479
+count[1]=1331
+count[2]=3000
+count[3]=1685
+count[4]=1325
+count[5]=685
+count[6]=2154
+count[7]=1684
+count[8]=549
+count[9]=2022
+count[10]=2848
+count[11]=1441
+count[12]=1126
+count[13]=700
+count[14]=1598
+count[15]=1355
+
+Average Distortion=5.0716150064044010
+
+-------------------------
+Kmean Iteration No==7
+
+count[0]=516
+count[1]=1418
+count[2]=2990
+count[3]=1631
+count[4]=1318
+count[5]=634
+count[6]=2277
+count[7]=1653
+count[8]=570
+count[9]=2043
+count[10]=2763
+count[11]=1494
+count[12]=1168
+count[13]=695
+count[14]=1426
+count[15]=1386
+
+Average Distortion=5.0300014612524704
+
+-------------------------
+Kmean Iteration No==8
+
+count[0]=556
+count[1]=1486
+count[2]=2946
+count[3]=1580
+count[4]=1314
+count[5]=600
+count[6]=2344
+count[7]=1636
+count[8]=596
+count[9]=2048
+count[10]=2740
+count[11]=1521
+count[12]=1199
+count[13]=698
+count[14]=1297
+count[15]=1421
+
+Average Distortion=4.9975399118123915
+
+-------------------------
+Kmean Iteration No==9
+
+count[0]=617
+count[1]=1541
+count[2]=2893
+count[3]=1549
+count[4]=1286
+count[5]=560
+count[6]=2353
+count[7]=1604
+count[8]=618
+count[9]=2029
+count[10]=2746
+count[11]=1552
+count[12]=1228
+count[13]=722
+count[14]=1214
+count[15]=1470
+
+Average Distortion=4.9544098850390048
+
+-------------------------
+Kmean Iteration No==10
+
+count[0]=678
+count[1]=1554
+count[2]=2853
+count[3]=1559
+count[4]=1265
+count[5]=531
+count[6]=2370
+count[7]=1587
+count[8]=649
+count[9]=1983
+count[10]=2747
+count[11]=1574
+count[12]=1238
+count[13]=735
+count[14]=1142
+count[15]=1517
+
+Average Distortion=4.9067835824193438
+
+-------------------------
+Kmean Iteration No==11
+
+count[0]=762
+count[1]=1533
+count[2]=2819
+count[3]=1568
+count[4]=1244
+count[5]=530
+count[6]=2356
+count[7]=1571
+count[8]=672
+count[9]=1931
+count[10]=2756
+count[11]=1595
+count[12]=1242
+count[13]=742
+count[14]=1103
+count[15]=1558
+
+Average Distortion=4.8725427955134029
+
+-------------------------
+Kmean Iteration No==12
+
+count[0]=852
+count[1]=1524
+count[2]=2794
+count[3]=1541
+count[4]=1239
+count[5]=550
+count[6]=2321
+count[7]=1552
+count[8]=686
+count[9]=1901
+count[10]=2750
+count[11]=1604
+count[12]=1248
+count[13]=740
+count[14]=1081
+count[15]=1599
+
+Average Distortion=4.8461600397151408
+
+-------------------------
+Kmean Iteration No==13
+
+count[0]=925
+count[1]=1508
+count[2]=2804
+count[3]=1548
+count[4]=1248
+count[5]=561
+count[6]=2298
+count[7]=1546
+count[8]=698
+count[9]=1851
+count[10]=2700
+count[11]=1620
+count[12]=1256
+count[13]=739
+count[14]=1053
+count[15]=1627
+
+Average Distortion=4.8226603555366321
+
+-------------------------
+Kmean Iteration No==14
+
+count[0]=954
+count[1]=1486
+count[2]=2825
+count[3]=1562
+count[4]=1267
+count[5]=563
+count[6]=2256
+count[7]=1540
+count[8]=708
+count[9]=1817
+count[10]=2686
+count[11]=1628
+count[12]=1259
+count[13]=740
+count[14]=1041
+count[15]=1650
+
+Average Distortion=4.8070645803124021
+
+-------------------------
+Kmean Iteration No==15
+
+count[0]=965
+count[1]=1470
+count[2]=2852
+count[3]=1560
+count[4]=1286
+count[5]=583
+count[6]=2200
+count[7]=1543
+count[8]=717
+count[9]=1785
+count[10]=2697
+count[11]=1633
+count[12]=1259
+count[13]=738
+count[14]=1029
+count[15]=1665
+
+Average Distortion=4.7994094114689281
+
+-------------------------
+Kmean Iteration No==16
+
+count[0]=971
+count[1]=1458
+count[2]=2890
+count[3]=1554
+count[4]=1302
+count[5]=600
+count[6]=2165
+count[7]=1554
+count[8]=717
+count[9]=1762
+count[10]=2684
+count[11]=1634
+count[12]=1261
+count[13]=737
+count[14]=1019
+count[15]=1674
+
+Average Distortion=4.7937312656271898
+
+-------------------------
+Kmean Iteration No==17
+
+count[0]=966
+count[1]=1456
+count[2]=2928
+count[3]=1545
+count[4]=1327
+count[5]=616
+count[6]=2115
+count[7]=1565
+count[8]=719
+count[9]=1740
+count[10]=2689
+count[11]=1621
+count[12]=1262
+count[13]=737
+count[14]=1014
+count[15]=1682
+
+Average Distortion=4.7927895974871104
